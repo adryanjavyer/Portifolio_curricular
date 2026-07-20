@@ -1,0 +1,35 @@
+﻿cbo_id;cbo_descricao;grupo_ocupacional_analitico
+CBO_001;Técnico de enfermagem;Saúde
+CBO_002;Alimentador de linha de produção;Indústria e produção
+CBO_003;Faxineiro;Serviços gerais
+CBO_004;Motorista de caminhão (rotas regionais e internacionais);Transporte e logística
+CBO_005;Servente de obras;Construção
+CBO_006;Enfermeiro;Saúde
+CBO_007;Vendedor de comércio varejista;Comércio e vendas
+CBO_008;Auxiliar de escritório, em geral;Administrativo
+CBO_009;Assistente administrativo;Administrativo
+CBO_010;Auxiliar nos serviços de alimentação;Alimentação
+CBO_011;Vigilante;Segurança privada
+CBO_012;Motociclista no transporte de documentos/volumes;Transporte e logística
+CBO_013;Ajudante de motorista;Transporte e logística
+CBO_014;Pedreiro;Construção
+CBO_015;Motorista de furgão ou veículo similar;Transporte e logística
+CBO_016;Agente de segurança penitenciária;Segurança pública
+CBO_017;Rebarbador de metal;Indústria metalúrgica
+CBO_018;Avicultor;Agropecuária
+CBO_019;Ceramista;Indústria e produção
+CBO_020;Dirigente do serviço público municipal;Administração pública
+CBO_021;Técnico em operação de equipamentos de TV;Comunicação e tecnologia
+CBO_022;Auxiliar de enfermagem da estratégia de saúde da família;Saúde
+CBO_023;Trabalhador da cultura de sisal;Agropecuária
+CBO_024;Técnico de enfermagem psiquiátrica;Saúde
+CBO_025;Piloto comercial (exceto linhas aéreas);Aviação
+CBO_026;Piloto de aeronaves;Aviação
+CBO_027;Piloto agrícola;Aviação
+CBO_028;Prefeito;Administração pública
+CBO_029;Comandante da marinha mercante;Transporte aquaviário
+CBO_030;Mergulhador profissional (raso e profundo);Atividades subaquáticas
+CBO_031;Piloto fluvial;Transporte aquaviário
+CBO_032;Destroçador de pedra;Mineração e extração
+CBO_033;Médico ginecologista e obstetra;Saúde
+CBO_034;Técnico em estruturas metálicas;Indústria metalúrgica
