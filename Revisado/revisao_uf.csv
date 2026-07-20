@@ -1,0 +1,13 @@
+﻿arquivo_fonte;pagina_fonte;linha_origem;quantidade_celulas_preenchidas;conteudo_linha;estrutura_colunas;tipo_linha;estado;regiao;observacao
+pagina_10_tabela_01.csv;10;1;5;UF | Acidentes | Óbitos | Taxa CAT | Taxa Letali.;coluna_01=UF || coluna_03=Acidentes || coluna_04=Óbitos || coluna_05=Taxa CAT || coluna_07=Taxa Letali.;cabecalho;;;cabeçalho da tabela
+pagina_10_tabela_01.csv;10;2;2;(total) | (total);coluna_03=(total) || coluna_04=(total);cabecalho;;;subcabeçalho indicando valores totais
+pagina_10_tabela_01.csv;10;3;5;SP | 2.219.859 | 6.517 | 199,20 | 2,93;coluna_02=SP || coluna_03=2.219.859 || coluna_04=6.517 || coluna_06=199,20 || coluna_08=2,93;dado;São Paulo;Sudeste;
+pagina_10_tabela_01.csv;10;4;5;MG | 657.459 | 3.269 | 189,50 | 4,99;coluna_02=MG || coluna_03=657.459 || coluna_04=3.269 || coluna_06=189,50 || coluna_08=4,99;dado;Minas Gerais;Sudeste;
+pagina_10_tabela_01.csv;10;5;5;PR | 500.946 | 2.653 | 210,18 | 5,28;coluna_02=PR || coluna_03=500.946 || coluna_04=2.653 || coluna_06=210,18 || coluna_08=5,28;dado;Paraná;Sul;
+pagina_10_tabela_01.csv;10;6;5;RS | 516.033 | 1.623 | 240,38 | 3,13;coluna_02=RS || coluna_03=516.033 || coluna_04=1.623 || coluna_06=240,38 || coluna_08=3,13;dado;Rio Grande do Sul;Sul;
+pagina_10_tabela_01.csv;10;7;5;SC | 459.716 | 1.865 | 239,45 | 4,02;coluna_02=SC || coluna_03=459.716 || coluna_04=1.865 || coluna_06=239,45 || coluna_08=4,02;dado;Santa Catarina;Sul;
+pagina_10_tabela_01.csv;10;8;5;RJ | 420.788 | 1.536 | 142,87 | 3,65;coluna_02=RJ || coluna_03=420.788 || coluna_04=1.536 || coluna_06=142,87 || coluna_08=3,65;dado;Rio de Janeiro;Sudeste;
+pagina_10_tabela_01.csv;10;9;5;MT | 134.549 | 1.257 | 240,04 | 9,24;coluna_02=MT || coluna_03=134.549 || coluna_04=1.257 || coluna_06=240,04 || coluna_08=9,24;dado;Mato Grosso;Centro-Oeste;
+pagina_10_tabela_01.csv;10;10;5;GO | 182.385 | 1.227 | 179,23 | 6,72;coluna_02=GO || coluna_03=182.385 || coluna_04=1.227 || coluna_06=179,23 || coluna_08=6,72;dado;Goiás;Centro-Oeste;
+pagina_10_tabela_01.csv;10;11;5;BA | 180.598 | 1.100 | 122,48 | 5,95;coluna_02=BA || coluna_03=180.598 || coluna_04=1.100 || coluna_06=122,48 || coluna_08=5,95;dado;Bahia;Nordeste;
+pagina_10_tabela_01.csv;10;12;5;PE | 148.569 | 676 | 138,27 | 4,53;coluna_02=PE || coluna_03=148.569 || coluna_04=676 || coluna_06=138,27 || coluna_08=4,53;dado;Pernambuco;Nordeste;
