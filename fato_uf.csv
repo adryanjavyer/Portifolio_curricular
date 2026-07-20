@@ -1,0 +1,11 @@
+﻿ordem_relatorio;uf;total_acidentes;total_obitos;taxa_cat;taxa_letalidade;pagina_fonte;arquivo_fonte
+1;SP;2219859;6517;199.2;2.93;10;pagina_10_tabela_01.csv
+2;MG;657459;3269;189.5;4.99;10;pagina_10_tabela_01.csv
+3;PR;500946;2653;210.18;5.28;10;pagina_10_tabela_01.csv
+4;RS;516033;1623;240.38;3.13;10;pagina_10_tabela_01.csv
+5;SC;459716;1865;239.45;4.02;10;pagina_10_tabela_01.csv
+6;RJ;420788;1536;142.87;3.65;10;pagina_10_tabela_01.csv
+7;MT;134549;1257;240.04;9.24;10;pagina_10_tabela_01.csv
+8;GO;182385;1227;179.23;6.72;10;pagina_10_tabela_01.csv
+9;BA;180598;1100;122.48;5.95;10;pagina_10_tabela_01.csv
+10;PE;148569;676;138.27;4.53;10;pagina_10_tabela_01.csv

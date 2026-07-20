@@ -1,0 +1,41 @@
+﻿tipo_ranking;posicao;cnae_id;cnae_descricao;grupo_setor_analitico;total_acidentes;total_obitos;taxa_cat;taxa_letalidade;destaque;pagina_fonte;arquivo_fonte
+acidentes;1;CNAE_001;Atendimento hospitalar (exceto pronto-socorro);Saúde;500032;221;6378.9;21.69;;3;pagina_03_tabela_01.csv
+acidentes;2;CNAE_002;Supermercados;Comércio;204277;335;2150.6;83.82;;3;pagina_03_tabela_01.csv
+acidentes;3;CNAE_003;Administração pública em geral;Administração pública;177078;596;7609.3;195.15;;3;pagina_03_tabela_01.csv
+acidentes;4;CNAE_004;Transp. rodoviário de carga intermunicipal/interestadual;Transporte e logística;143367;2601;2304.5;526.63;;3;pagina_03_tabela_01.csv
+acidentes;5;CNAE_005;Atendimento em pronto-socorro / urgências;Saúde;133446;83;6869.7;15.14;;3;pagina_03_tabela_01.csv
+acidentes;6;CNAE_006;Construção de edifícios;Construção e engenharia;122455;820;3743.3;238.1;;3;pagina_03_tabela_01.csv
+acidentes;7;CNAE_007;Coleta de resíduos não-perigosos;Serviços ambientais;84937;220;11164.8;65.99;;3;pagina_03_tabela_01.csv
+acidentes;8;CNAE_008;Atividades do Correio Nacional;Transporte e logística;84371;40;9751.6;13.17;;3;pagina_03_tabela_01.csv
+acidentes;9;CNAE_009;Abate de aves;Indústria alimentícia;80372;166;11844.4;50.13;;3;pagina_03_tabela_01.csv
+acidentes;10;CNAE_010;Restaurantes e similares;Comércio;76255;262;1317.8;112.75;;3;pagina_03_tabela_01.csv
+obitos;1;CNAE_004;Transp. rodoviário de carga intermunicipal/interestadual;Transporte e logística;143367;2601;2304.5;526.63;Lidera;3;pagina_03_tabela_02.csv
+obitos;2;CNAE_006;Construção de edifícios;Construção e engenharia;122455;820;3743.3;238.1;;4;pagina_04_tabela_01.csv
+obitos;3;CNAE_003;Administração pública em geral;Administração pública;177078;596;7609.3;195.15;;4;pagina_04_tabela_01.csv
+obitos;4;CNAE_011;Atividades de vigilância e segurança privada;Segurança privada;42086;467;1079.7;350.1;;4;pagina_04_tabela_01.csv
+obitos;5;CNAE_002;Supermercados;Comércio;204277;335;2150.6;83.82;;4;pagina_04_tabela_01.csv
+obitos;6;CNAE_012;Transp. rodoviário de carga municipal;Transporte e logística;22106;328;2258.0;564.26;;4;pagina_04_tabela_01.csv
+obitos;7;CNAE_013;Comércio varejista de combustíveis;Comércio;27033;308;896.2;439.6;;4;pagina_04_tabela_01.csv
+obitos;8;CNAE_014;Construção de rodovias e ferrovias;Construção e engenharia;26889;298;4505.6;325.17;;4;pagina_04_tabela_01.csv
+obitos;9;CNAE_015;Serviços de engenharia;Construção e engenharia;38547;290;2830.5;297.8;;4;pagina_04_tabela_01.csv
+obitos;10;CNAE_016;Transp. rodoviário de produtos perigosos;Transporte e logística;15008;282;2289.1;880.04;Letali.;4;pagina_04_tabela_01.csv
+taxa_cat;1;CNAE_017;Obras de montagem industrial;Indústria;11497;106;80026.2;183.62;Record;5;pagina_05_tabela_01.csv
+taxa_cat;2;CNAE_018;Medição de consumo de energia elétrica, gás e água;Energia e utilidades;4764;19;51357.1;148.41;;5;pagina_05_tabela_01.csv
+taxa_cat;3;CNAE_019;Bancos múltiplos sem carteira comercial;Financeiro;190;1;34519.2;14.29;;5;pagina_05_tabela_01.csv
+taxa_cat;4;CNAE_020;Fundição de ferro e aço;Indústria;39604;33;21590.0;29.42;;5;pagina_05_tabela_01.csv
+taxa_cat;5;CNAE_021;Comércio atacadista de café torrado e moído;Comércio;317;1;21429.4;50.0;;5;pagina_05_tabela_01.csv
+taxa_cat;6;CNAE_022;Frigorífico – abate de suínos;Indústria alimentícia;55135;62;19387.4;14.41;;5;pagina_05_tabela_01.csv
+taxa_cat;7;CNAE_023;Moagem de trigo e fabricação de derivados;Indústria alimentícia;6295;19;19361.2;72.4;;5;pagina_05_tabela_01.csv
+taxa_cat;8;CNAE_024;Regulação de atividades de saúde e educação;Administração pública;8050;22;16592.3;101.6;;5;pagina_05_tabela_01.csv
+taxa_cat;9;CNAE_025;Extração de madeira em florestas plantadas;Florestal;3952;53;15818.1;269.98;;5;pagina_05_tabela_01.csv
+taxa_cat;10;CNAE_026;Outras atividades de serviços financeiros;Financeiro;1101;2;15152.2;11.09;;5;pagina_05_tabela_01.csv
+taxa_letalidade;1;CNAE_016;Transp. rodoviário de produtos perigosos;Transporte e logística;15008;282;2289.1;880.04;Record;6;pagina_06_tabela_01.csv
+taxa_letalidade;2;CNAE_027;Serviço de táxi aéreo / locação aeronaves c/ tripulação;Transporte aéreo;548;26;1041.6;734.51;;6;pagina_06_tabela_01.csv
+taxa_letalidade;3;CNAE_028;Serviço de pulverização e controle de pragas agrícolas;Serviços agrícolas;526;36;572.9;730.27;;6;pagina_06_tabela_01.csv
+taxa_letalidade;4;CNAE_029;Extração de areia, cascalho ou pedregulho;Mineração;2445;40;1365.2;703.6;;6;pagina_06_tabela_01.csv
+taxa_letalidade;5;CNAE_030;Criação de peixes em água doce;Aquicultura;542;11;2214.5;630.81;;6;pagina_06_tabela_01.csv
+taxa_letalidade;6;CNAE_031;Comércio atacadista de combustíveis por transportador;Comércio;945;17;1040.4;583.88;;6;pagina_06_tabela_01.csv
+taxa_letalidade;7;CNAE_032;Transp. rodoviário coletivo sob regime de fretamento;Transporte e logística;4420;87;2008.4;582.25;;6;pagina_06_tabela_01.csv
+taxa_letalidade;8;CNAE_012;Transp. rodoviário de carga municipal;Transporte e logística;22106;328;2258.0;564.26;;6;pagina_06_tabela_01.csv
+taxa_letalidade;9;CNAE_033;Obras de terraplenagem;Construção e engenharia;10264;152;3436.7;542.58;;6;pagina_06_tabela_01.csv
+taxa_letalidade;10;CNAE_034;Serviços de reboque de veículos;Transporte e logística;2177;49;1839.8;527.53;;6;pagina_06_tabela_01.csv
