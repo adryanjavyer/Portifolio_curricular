@@ -15,7 +15,7 @@ Os arquivos presentes nesta pasta representam as tabelas e rankings publicados n
 - Taxa CAT;
 - taxa de letalidade;
 
-A extração foi realizada utilizando:
+# A extração foi realizada utilizando:
 
 * Ferramenta: VSCode, Python, Pandas, Pdfplumber
 * Data da extração: 30/06/2026
