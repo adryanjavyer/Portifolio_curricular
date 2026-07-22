@@ -17,6 +17,6 @@ Os arquivos presentes nesta pasta representam as tabelas e rankings publicados n
 
 A extração foi realizada utilizando:
 
-Ferramenta: VSCode, Python, Pandas, Pdfplumber
-Data da extração: 30/06/2026
-Responsável: Adryan
+* Ferramenta: VSCode, Python, Pandas, Pdfplumber
+* Data da extração: 30/06/2026
+* Responsável: Adryan
