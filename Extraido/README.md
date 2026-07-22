@@ -1,4 +1,4 @@
-Esta pasta contém os dados estruturados extraídos do relatório:
+# Esta pasta contém os dados estruturados extraídos do relatório:
 
 Acidentes do Trabalho no Brasil — 2016 a 2025
 
