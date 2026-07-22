@@ -1,4 +1,4 @@
-O dashboard foi criado para entender melhor os acidentes de trabalho em diferentes setores econômicos, como:
+# O dashboard foi criado para entender melhor os acidentes de trabalho em diferentes setores econômicos, como:
 
 1. Em quais áreas da economia acontecem mais acidentes de trabalho?
    
