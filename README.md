@@ -8,7 +8,7 @@ Atuo e Estudo na area de Data Sciencie e Data Analyst, aqui você encontra proje
 
 # Tecnologias
 * Python
-* pdfplumber
+* Pdfplumber
 * Pandas
 * Excel
 * PowerBI
