@@ -11,6 +11,6 @@ A etapa de revisão teve como objetivo garantir que os arquivos processados esti
 
 Gerando relacionamentos como:
 
-dim_cnae 1 -->-- * fato_cnae
-dim_uf 1 -->-- * fato_uf
-dim_cbo 1 -->-- * fato_cbo
+- dim_cnae 1 -->-- * fato_cnae
+- dim_uf 1 -->-- * fato_uf
+- dim_cbo 1 -->-- * fato_cbo
