@@ -1,4 +1,4 @@
-O objetivo do relatório é identificar padrões relacionados aos acidentes de trabalho no Brasil e responder a perguntas como:
+# O objetivo do relatório é identificar padrões relacionados aos acidentes de trabalho no Brasil e responder a perguntas como:
 
 - Quais setores econômicos registraram mais acidentes?
 - Quais atividades apresentaram mais óbitos?
